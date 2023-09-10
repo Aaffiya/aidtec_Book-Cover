@@ -30,4 +30,3 @@ We are going to use a white portrait-shaped background with cloud-grey shades, s
 
 - **Subtitle**: Beneath the title, we have a subtitle that reads "For InfoAid Tech Technology." This subtitle provides context and hints at the technological aspect of the book's theme.
 
-Stay tuned for the next phase of our creative journey!
