@@ -30,3 +30,7 @@ We are going to use a white portrait-shaped background with cloud-grey shades, s
 
 - **Subtitle**: Beneath the title, we have a subtitle that reads "For InfoAid Tech Technology." This subtitle provides context and hints at the technological aspect of the book's theme.
 
+
+
+![bookcover](https://github.com/Aaffiya/aidtec_Logo-Banner_Design/assets/144488901/37e701d5-c1c2-4334-8aaf-d9f13a80d4fe)
+
